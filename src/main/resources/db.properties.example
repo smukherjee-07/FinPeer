@@ -1,0 +1,4 @@
+db.url=jdbc:mysql://localhost:3306/finpeer?useSSL=false&serverTimezone=UTC
+db.username=root
+db.password=your_password_here
+db.driver=com.mysql.cj.jdbc.Driver

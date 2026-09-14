@@ -1,0 +1,29 @@
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+
+# Local database and environment credentials
+src/main/resources/db.properties
+src/main/resources/*.local.properties
+.env
+.env.*
+!.env.example
+
+# IDE metadata
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
