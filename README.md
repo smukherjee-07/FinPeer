@@ -72,7 +72,7 @@ are involved.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<smukherjee-07>/FinPeer.git
+git clone https://github.com/smukherjee-07/FinPeer.git
 cd FinPeer
 ```
 
